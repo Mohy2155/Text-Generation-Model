@@ -1,4 +1,4 @@
-# LSTM Text Generation Engine
+# LSTM Text Generation Model using BOW method
 
 A deep learning natural language processing (NLP) project focused on sequence-to-sequence modeling and next-word text prediction. Built with TensorFlow and Keras, this model utilizes a stacked Long Short-Term Memory (LSTM) recurrent neural network architecture trained on localized product review data to dynamically auto-complete text strings.
 
